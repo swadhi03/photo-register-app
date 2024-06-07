@@ -49,9 +49,9 @@ const ViewAll = () => {
                                     <table class="table">
                                         <thead>
                                             <tr>
-                                                <th scope="col">ID</th>
-                                                <th scope="col">User ID</th>
-                                                <th scope="col">Title</th>
+                                                <th>ID</th>
+                                                <th>User ID</th>
+                                                <th>Title</th>
                                             </tr>
                                         </thead>
                                         <tbody>
